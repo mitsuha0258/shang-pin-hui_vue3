@@ -4,7 +4,7 @@
 
 本项目主要涉及技术vue, vuex, vue-router, axios等。
 
-本项目使用Vue3完成，相比于原项目使用Vue2完成，做出主要改动如下：
+本项目使用基于选项式的Vue3完成，相比于原项目使用Vue2完成，做出主要改动如下：
 - 更改main.js，router文件，使用vue3写法
 - 使用mitt插件代替vue3已废弃的全局事件总线\$bus
 - 使用新版的vee-validate校验写法
